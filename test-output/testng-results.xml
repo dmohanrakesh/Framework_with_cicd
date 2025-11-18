@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-18T14:09:08 CST" name="Default suite" finished-at="2025-11-18T14:09:31 CST" duration-ms="23366">
+    <groups>
+    </groups>
+    <test started-at="2025-11-18T14:09:08 CST" name="Default test" finished-at="2025-11-18T14:09:31 CST" duration-ms="23366">
+      <class name="com.Framework_with_cicd.TestCases.ElementsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:08 CST" name="setUp" finished-at="2025-11-18T14:09:15 CST" duration-ms="6565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC01_VerifyNavigationToElementsPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:15 CST" name="TC01_VerifyNavigationToElementsPage" finished-at="2025-11-18T14:09:15 CST" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC01_VerifyNavigationToElementsPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:15 CST" name="tearDown" finished-at="2025-11-18T14:09:15 CST" duration-ms="195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:15 CST" name="setUp" finished-at="2025-11-18T14:09:20 CST" duration-ms="5048" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC02_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:20 CST" name="TC02_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-11-18T14:09:21 CST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_ValidateTextBoxOptionOpensTextBoxPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:21 CST" name="tearDown" finished-at="2025-11-18T14:09:21 CST" duration-ms="170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:21 CST" name="setUp" finished-at="2025-11-18T14:09:31 CST" duration-ms="9778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC03_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:31 CST" name="TC03_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-11-18T14:09:31 CST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC03_ValidateTextBoxOptionOpensTextBoxPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@6989da5e]" started-at="2025-11-18T14:09:31 CST" name="tearDown" finished-at="2025-11-18T14:09:31 CST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Framework_with_cicd.TestCases.ElementsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
