@@ -1,0 +1,8 @@
+com\Framework_with_cicd\PageObjects\ElementsPage.class
+com\Framework_with_cicd\Utilities\ScreenshotUtils.class
+com\Framework_with_cicd\PageObjects\HomePage.class
+com\Framework_with_cicd\Utilities\ReadConfig.class
+com\Framework_with_cicd\Listeners\Listener.class
+com\Framework_with_cicd\ExtentReports\Reporting.class
+com\Framework_with_cicd\TestCases\BaseClass.class
+com\Framework_with_cicd\TestCases\ElementsPageTest.class

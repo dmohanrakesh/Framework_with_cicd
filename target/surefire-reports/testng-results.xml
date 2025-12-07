@@ -2,52 +2,52 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-07T14:05:41 CST" name="Suite" finished-at="2025-12-07T14:05:57 CST" duration-ms="16173">
+  <suite started-at="2025-12-07T14:36:24 CST" name="Suite" finished-at="2025-12-07T14:36:40 CST" duration-ms="15448">
     <groups>
     </groups>
-    <test started-at="2025-12-07T14:05:41 CST" name="Test" finished-at="2025-12-07T14:05:57 CST" duration-ms="16173">
+    <test started-at="2025-12-07T14:36:24 CST" name="Test" finished-at="2025-12-07T14:36:40 CST" duration-ms="15448">
       <class name="com.Framework_with_cicd.TestCases.ElementsPageTest">
-        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:41 CST" name="preConditions" finished-at="2025-12-07T14:05:41 CST" duration-ms="194" status="PASS">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:24 CST" name="preConditions" finished-at="2025-12-07T14:36:24 CST" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preConditions -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:41 CST" name="setUp" finished-at="2025-12-07T14:05:47 CST" duration-ms="5465" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:24 CST" name="setUp" finished-at="2025-12-07T14:36:29 CST" duration-ms="5344" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC01_VerifyNavigationToElementsPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:47 CST" name="TC01_VerifyNavigationToElementsPage" finished-at="2025-12-07T14:05:47 CST" duration-ms="410" status="PASS">
+        <test-method signature="TC01_VerifyNavigationToElementsPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:29 CST" name="TC01_VerifyNavigationToElementsPage" finished-at="2025-12-07T14:36:30 CST" duration-ms="401" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01_VerifyNavigationToElementsPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:47 CST" name="tearDown" finished-at="2025-12-07T14:05:47 CST" duration-ms="245" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:30 CST" name="tearDown" finished-at="2025-12-07T14:36:30 CST" duration-ms="222" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:47 CST" name="setUp" finished-at="2025-12-07T14:05:52 CST" duration-ms="4245" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:30 CST" name="setUp" finished-at="2025-12-07T14:36:34 CST" duration-ms="3751" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC02_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:52 CST" name="TC02_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-07T14:05:52 CST" duration-ms="510" status="PASS">
+        <test-method signature="TC02_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:34 CST" name="TC02_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-07T14:36:34 CST" duration-ms="565" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC02_ValidateTextBoxOptionOpensTextBoxPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:52 CST" name="tearDown" finished-at="2025-12-07T14:05:52 CST" duration-ms="230" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:34 CST" name="tearDown" finished-at="2025-12-07T14:36:35 CST" duration-ms="248" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:52 CST" name="setUp" finished-at="2025-12-07T14:05:56 CST" duration-ms="3889" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:35 CST" name="setUp" finished-at="2025-12-07T14:36:38 CST" duration-ms="3774" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC03_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:56 CST" name="TC03_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-07T14:05:57 CST" duration-ms="924" status="PASS">
+        <test-method signature="TC03_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:38 CST" name="TC03_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-07T14:36:39 CST" duration-ms="905" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC03_ValidateTextBoxOptionOpensTextBoxPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:57 CST" name="tearDown" finished-at="2025-12-07T14:05:57 CST" duration-ms="201" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:39 CST" name="tearDown" finished-at="2025-12-07T14:36:39 CST" duration-ms="181" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="postConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:05:57 CST" name="postConditions" finished-at="2025-12-07T14:05:58 CST" duration-ms="266" status="PASS">
+        <test-method is-config="true" signature="postConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@48f2bd5b]" started-at="2025-12-07T14:36:40 CST" name="postConditions" finished-at="2025-12-07T14:36:40 CST" duration-ms="235" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postConditions -->
