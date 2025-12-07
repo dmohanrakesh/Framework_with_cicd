@@ -7,7 +7,6 @@ import org.testng.annotations.Test;
 
 import com.Framework_with_cicd.PageObjects.ElementsPage;
 import com.Framework_with_cicd.PageObjects.HomePage;
-import com.Framework_with_cicd.Utilities.ScreenshotUtils;
 
 public class ElementsPageTest extends BaseClass{
 
@@ -28,7 +27,7 @@ public class ElementsPageTest extends BaseClass{
 //		driver.switchTo().frame(0);
 		String testName = "TC01_VerifyNavigationToElementsPage";
 		log.info("Started "+testName+"......");
-		ScreenshotUtils ssUtils = new ScreenshotUtils();
+//		ScreenshotUtils ssUtils = new ScreenshotUtils();
 		HomePage homePage = new HomePage(driver);
 		log.info("Currently on the Home page");
 		log.info("Scrolling down to the Elements label on the Elements card");
@@ -153,12 +152,6 @@ public class ElementsPageTest extends BaseClass{
 			log.error("Text Box heading validation failed");
 			Assert.assertTrue(false);
 		}		
-	}
-
-
-	private void sysout(String output) {
-		// TODO Auto-generated method stub
-		
 	}
 
 	

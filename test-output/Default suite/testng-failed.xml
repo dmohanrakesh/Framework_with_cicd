@@ -6,8 +6,10 @@
       <class name="com.Framework_with_cicd.TestCases.ElementsPageTest">
         <methods>
           <include name="tearDown"/>
-          <include name="TC03_ValidateTextBoxOptionOpensTextBoxPage"/>
+          <include name="TC02_ValidateTextBoxOptionOpensTextBoxPage"/>
           <include name="setUp"/>
+          <include name="preConditions"/>
+          <include name="postConditions"/>
         </methods>
       </class> <!-- com.Framework_with_cicd.TestCases.ElementsPageTest -->
     </classes>
