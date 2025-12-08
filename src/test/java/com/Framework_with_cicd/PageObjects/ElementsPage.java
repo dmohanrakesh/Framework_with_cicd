@@ -1,5 +1,7 @@
 package com.Framework_with_cicd.PageObjects;
 
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -43,9 +45,21 @@ public class ElementsPage {
 	@FindBy(id = "output")
 	WebElement outputBox;
 	
+	@FindBy(css = "p#name")
+	WebElement outputFullName;
+	
+	@FindBy(css = "p#email")
+	WebElement outputEmail;
+	
+	@FindBy(css = "p#currentAddress")
+	WebElement outputCurrentAddress;
+	
+	@FindBy(css = "p#permanentAddress")
+	WebElement outputPermanentAddress;
+	
 	
 	public boolean isOutputPresent() {
-		
+		scrollToOutputBox();
 		if(outputBox.isDisplayed()) {
 			return true;
 		}
@@ -107,7 +121,7 @@ public void enterPermanentAddress(String permanentAddress) {
 	fullNameTextbox.sendKeys(permanentAddress);
 }
 public void clickSubmitButton() {
-	
+	scrollToSubmitButton();
 	submitButton.click();
 }
 
@@ -115,6 +129,34 @@ public String getOutput() {
 	
 	return outputBox.getText();
 	
+}
+
+public boolean validateOutput(String fn,String email, String cAddress, String pAddress) {
+	boolean flag = false;
+	scrollToOutputBox();
+	if (outputFullName.getText().contains(fn) && outputEmail.getText().contains(email)) {
+		if(outputCurrentAddress.getText().contains(cAddress) && outputPermanentAddress.getText().contains(pAddress))
+			flag = true;
+	}
+	else {
+		flag = false;
+	}
+	
+	return flag;
+}
+
+public void scrollToSubmitButton() {
+	Point point = submitButton.getLocation();
+	int yCoordinate = point.getY();
+	JavascriptExecutor jsExecutor= (JavascriptExecutor)driver;
+	jsExecutor.executeScript("window.scrollTo(0,"+yCoordinate+")");
+}
+
+public void scrollToOutputBox() {
+	Point point = outputBox.getLocation();
+	int yCoordinate = point.getY();
+	JavascriptExecutor jsExecutor= (JavascriptExecutor)driver;
+	jsExecutor.executeScript("window.scrollTo(0,"+yCoordinate+")");
 }
 	
 }

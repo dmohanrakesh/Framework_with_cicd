@@ -40,7 +40,8 @@ public class BaseClass {
 	public static String email= readConfig.getEmail();
 	public static String currentAddress= readConfig.getCurrentAddress();
 	public static String permanentAddress= readConfig.getPermanentAddress();
-	
+	public static String xlfilePath= readConfig.getXlFilePath();
+	public static String xlSheetName= readConfig.getXLSheetName();
 	
 //	
 //	

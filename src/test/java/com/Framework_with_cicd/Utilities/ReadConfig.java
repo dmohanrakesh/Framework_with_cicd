@@ -53,5 +53,15 @@ public class ReadConfig {
 		 return p.getProperty("permanentAddress");
 	}
 	
+	public String getXlFilePath() {
+		
+		//String xlfilePath = System.getProperty("user.dir")+p.getProperty("xlfilepath");
+		 return (System.getProperty("user.dir")+p.getProperty("xlfilepath"));
+	}
+	
+	public String getXLSheetName() {
+		
+		 return p.getProperty("xlSheetName");
+	}
 
 }
