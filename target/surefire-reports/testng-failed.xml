@@ -9,9 +9,9 @@
       <class name="com.Framework_with_cicd.TestCases.ElementsPageTest">
         <methods>
           <include name="tearDown"/>
+          <include name="TC04_XlDataProviderValidation"/>
           <include name="setUp"/>
           <include name="preConditions"/>
-          <include name="TC01_VerifyNavigationToElementsPage"/>
           <include name="postConditions"/>
         </methods>
       </class> <!-- com.Framework_with_cicd.TestCases.ElementsPageTest -->

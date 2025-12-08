@@ -1,5 +1,7 @@
 package com.Framework_with_cicd.Utilities;
 
+import java.io.IOException;
+
 import org.testng.annotations.DataProvider;
 
 public class DataProviderClass {
@@ -7,7 +9,7 @@ public class DataProviderClass {
 	
 	
 	@DataProvider(name = "getExcelData")
-	public static Object[][] getXlData(String xlfilepath, String sheetName) {
+	public static Object[][] getXlData(String xlfilepath, String sheetName) throws IOException {
 		
 		int rows = XLUtils.getRowCount(xlfilepath,  sheetName);
 		int columns = XLUtils.getColumnCount(xlfilepath, sheetName);

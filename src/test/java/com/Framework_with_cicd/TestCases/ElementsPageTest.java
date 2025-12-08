@@ -40,7 +40,7 @@ public class ElementsPageTest extends BaseClass{
 		ElementsPage elementsPage = new ElementsPage(driver);
 		log.info("Clicking the 'Text Box' option on the Elements page");
 		
-		log.info(getXlData().toString());
+//		log.info(getXlData().toString());
 		
 //		
 		if (elementsPage.isElementsDropDownPresent()) {
@@ -223,7 +223,7 @@ public class ElementsPageTest extends BaseClass{
 	
 	
 	@DataProvider(name = "getExcelData")
-	public static Object[][] getXlData() {
+	public static Object[][] getXlData() throws IOException {
 		
 		String xlfilepath = BaseClass.xlfilePath;
 		String sheetName = BaseClass.xlSheetName;
@@ -232,14 +232,74 @@ public class ElementsPageTest extends BaseClass{
 		
 		String data[][] = new String[rows-1][columns];
 		
-		for(int i = 2; i<=rows; i++ ) {
-			for(int j=1; j<=columns; j++) {
+		for(int i = 1; i<rows; i++ ) {
+			for(int j=0; j<columns; j++) {
 				data[i-1][j]= XLUtils.getCellData(xlfilepath, sheetName,i,j);
 			}
 		}
 		
 		return data;
 		
+	}
+
+	
+	@Test
+	public void TC05_ValidateTextBoxOptionOpensTextBoxPage1() {
+		// TODO Auto-generated method stub
+
+//		WebDriverManager.chromedriver().setup();
+//		WebDriver driver = new ChromeDriver();
+//		driver.get(baseUrl);
+//		driver.manage().window().maximize();
+		
+//		JavascriptExecutor jsExecutor = (JavascriptExecutor)driver;
+//		
+//		jsExecutor.executeScript("window.scrollTo(0,1000);");
+		
+//		driver.switchTo().frame(0);
+		
+		String testName = "TC03_ValidateTextBoxOptionOpensTextBoxPage";
+		log.info("Started "+testName+"......");
+		HomePage homePage = new HomePage(driver);
+		log.info("Currently on the Home page");
+		log.info("Scrolling down to the Elements label on the Elements card");
+		homePage.scrollToElementsCard();
+		log.info("Clicking the Elements card");
+		homePage.clickElementsCard();
+		log.info("Elements card is clicked!");
+		ElementsPage elementsPage = new ElementsPage(driver);
+		log.info("Clicking the 'Text Box' option on the Elements page");
+		elementsPage.clickTextBoxOption();
+		
+//		
+		if (elementsPage.isTextBoxHeadingPresent()) {
+			//captureScreenshot(driver, testName);
+			log.info("Text Box heading validation is done successfully!");
+			
+			elementsPage.enterFullName(fullName);
+			log.info("Entered the Full Name");
+			elementsPage.enterEmail(email);
+			log.info("Entered the Email");
+			elementsPage.enterCurrentAddress(currentAddress);
+			log.info("Entered the Current Address");
+			elementsPage.enterPermanentAddress(permanentAddress);
+			log.info("Entered the Permanent Address");
+			elementsPage.clickSubmitButton();
+			log.info("Clicked the SUBMIT button");
+			
+			if (elementsPage.isOutputPresent()) {
+				log.info("Output banner is present!");
+				log.info(elementsPage.getOutput());
+				
+				log.info("Output is displayed Successfully!!!");
+				Assert.assertTrue(true);
+			}
+		}
+		else {
+			//captureScreenshot(driver, testName);
+			log.error("Text Box heading validation failed");
+			Assert.assertTrue(false);
+		}		
 	}
 
 

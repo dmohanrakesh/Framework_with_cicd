@@ -19,101 +19,64 @@ public class XLUtils {
 //	public static XSSFRow row;
 //	public static XSSFCell cell;
 	
-	public static int getRowCount(String filepath, String sheetName) {
+	public static int getRowCount(String filepath, String sheetName) throws IOException {
 		
-		f = new File(filepath);
+		//f = new File(filepath);
 		
-		try {
-			fis = new FileInputStream(f);
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 		
-		try {
+			try {
+				fis = new FileInputStream(filepath);
+			} catch (FileNotFoundException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 			wb = new XSSFWorkbook(fis);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		wSheet = wb.getSheet(sheetName);
-		
-		int rowCount = wSheet.getLastRowNum();
-		
-		try {
+			wSheet = wb.getSheet(sheetName);
+			int rowCount = wSheet.getLastRowNum();
 			wb.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		try {
 			fis.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		
 		
 		
 		return rowCount;
 	}
 	
-	public static int getColumnCount(String filepath, String sheetName) {
+	public static int getColumnCount(String filepath, String sheetName) throws IOException{
 		
-		f = new File(filepath);
+		//f = new File(filepath);
 		
 		try {
-			fis = new FileInputStream(f);
+			fis = new FileInputStream(filepath);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		try {
-			wb = new XSSFWorkbook(fis);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		wb = new XSSFWorkbook(fis);
+		
 		wSheet = wb.getSheet(sheetName);
 		
 		int rowNum = wSheet.getFirstRowNum();
 		XSSFRow row = wSheet.getRow(rowNum);
 		int columnCount = row.getLastCellNum();
-		
-		try {
-			wb.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		try {
-			fis.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		
-		
+		wb.close();
+		fis.close();
 		return columnCount;
 	}
 	
-	public static String getCellData(String filepath, String sheetName, int i, int j) {
+	public static String getCellData(String filepath, String sheetName, int i, int j) throws IOException{
 		
-		f = new File(filepath);
+		//f = new File(filepath);
 		
 		try {
-			fis = new FileInputStream(f);
+			fis = new FileInputStream(filepath);
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 		
-		try {
-			wb = new XSSFWorkbook(fis);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
+		wb = new XSSFWorkbook(fis);
+		
 		wSheet = wb.getSheet(sheetName);
 		
 //		int rowNum = wSheet.getFirstRowNum();
@@ -123,20 +86,12 @@ public class XLUtils {
 		XSSFRow row = wSheet.getRow(i);
 		XSSFCell cell = row.getCell(j);
 //		CellAddress cell = new CellAddress(i,j);
+//		DataFormatter f = new DataFormatter();
+//		String cellData = f.formatCellValue(cell);
 		String cellData = cell.getStringCellValue();
+		wb.close();
+		fis.close();
 		
-		try {
-			wb.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-		try {
-			fis.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
 		return cellData;
 	}
 
