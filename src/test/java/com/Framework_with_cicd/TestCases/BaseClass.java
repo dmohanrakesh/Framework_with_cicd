@@ -89,7 +89,7 @@ public static void captureScreenshot(String tname) throws IOException {
 //		LocalDateTime localDateTime= LocalDateTime.now();
 //		String dateAndTime = localDateTime.toString();
 		
-	String timeStamp = new SimpleDateFormat("yyyy.mm.dd.HH.mm.ss").format(new Date());
+	String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 		
 		TakesScreenshot tsScreenshot = (TakesScreenshot)driver;
 		File src= tsScreenshot.getScreenshotAs(OutputType.FILE);

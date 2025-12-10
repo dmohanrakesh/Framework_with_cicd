@@ -17,7 +17,10 @@ public class Reporting{
      
      public static void setUpReporting() {
 		
-    	 String timeStamp = new SimpleDateFormat("yyyy.mm.dd.HH.mm.ss").format(new Date());
+    	 String timeStamp = new SimpleDateFormat("yyyy.MM.dd.hh.mm.ss").format(new Date());
+//    	 Calendar c = Calendar.getInstance();
+//    	 String timeValue = c.getTime().toString();
+//    	 String timeStamp = dateValue+"-"+timeValue;
     	 String reportName = "Test_Report_"+timeStamp+".html";
     	 
     	 sparkReporter = new ExtentSparkReporter("target/Spark/"+reportName);

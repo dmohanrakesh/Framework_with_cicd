@@ -110,15 +110,15 @@ public class ElementsPage {
 	
 public void enterEmail(String email) {
 		
-		fullNameTextbox.sendKeys(email);
+	emailTextbox.sendKeys(email);
 	}
 public void enterCurrentAddress(String currentAddress) {
 	
-	fullNameTextbox.sendKeys(currentAddress);
+	currentAddressTextbox.sendKeys(currentAddress);
 }
 public void enterPermanentAddress(String permanentAddress) {
 	
-	fullNameTextbox.sendKeys(permanentAddress);
+	permanentAddressTextbox.sendKeys(permanentAddress);
 }
 public void clickSubmitButton() {
 	scrollToSubmitButton();
