@@ -2693,3 +2693,746 @@ Email:asdf@demoqa.com
 Current Address :asdf
 Permananet Address :asdf
 2025-12-11 12:38:17 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:42:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:42:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:42:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:42:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:42:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:42:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:42:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:42:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:42:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:42:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:42:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:42:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:42:42 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:42:43 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:42:43 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:42:43 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:42:43 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:44:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:44:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:44:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:44:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:44:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:44:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:44:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:44:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:44:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:44:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:44:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:44:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:44:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:44:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:44:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:44:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:44:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:44:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:45:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:45:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:45:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:45:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:45:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:45:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:45:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:45:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:45:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:45:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:45:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:45:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:45:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:45:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:45:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:45:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:45:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:45:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:45:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:45:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:45:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:45:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:45:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:45:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:45:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:45:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 16:45:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:45:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 16:45:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:45:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:45:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC05_ValidateTextBoxOptionOpensTextBoxPage1......
+2025-12-11 16:45:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:45:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:45:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:48:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:48:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:48:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:48:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:48:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:48:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:48:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:48:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:48:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:48:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:48:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:48:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:48:27 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:48:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:48:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:48:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:48:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:48:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:48:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:48:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:48:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 16:48:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:48:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:48:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:48:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:48:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 16:48:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:48:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:51:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:51:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:51:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:51:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:51:28 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 16:51:29 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:51:33 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:51:33 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:51:33 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:51:33 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:51:33 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:51:33 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 16:51:34 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:52:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:52:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:52:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:52:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:52:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:52:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:52:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:52:17 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:52:17 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:52:17 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:52:17 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:52:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:52:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:52:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:52:23 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:52:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:52:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:52:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:52:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:52:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:52:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:53:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:53:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:53:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:53:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:53:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:53:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:53:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:53:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:53:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:53:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:53:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:53:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:53:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:53:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:53:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:53:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:53:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:53:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:53:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:53:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 16:53:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:53:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:53:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:53:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:53:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:53:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:53:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 16:53:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:53:37 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:55:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:55:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:55:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:55:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:55:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:55:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:55:05 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:55:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:55:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:55:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:55:09 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:55:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:55:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:55:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:55:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:55:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:55:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:55:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:55:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:55:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:56:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:56:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:56:35 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:56:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:56:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:56:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:56:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:56:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:56:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:56:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:56:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:56:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:56:40 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:56:41 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:56:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:56:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:56:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:56:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:56:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:56:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:56:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:56:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 16:56:55 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:56:59 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:56:59 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:56:59 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:56:59 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:57:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:57:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:57:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:57:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 16:57:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:58:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 16:58:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:58:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:58:03 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:58:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:58:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:58:04 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:58:08 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:58:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 16:58:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:58:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:58:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:58:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:58:12 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 16:58:13 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:58:18 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:58:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:58:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:58:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 16:58:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 16:58:24 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 16:58:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 16:58:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:00:10 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 17:00:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 17:00:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:00:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:00:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:00:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:00:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:00:16 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:00:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 17:00:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:00:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:00:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:00:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:00:19 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 17:00:20 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:00:25 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 17:00:26 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:00:30 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:00:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:00:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:00:31 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:00:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:00:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:00:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:00:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 17:00:32 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:00:36 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:01:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC01_VerifyNavigationToElementsPage......
+2025-12-11 17:01:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:01:48 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:01:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:01:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:01:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:01:49 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Navigated to the Elements page successfully!!
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC02_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:01:54 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC03_ValidateTextBoxOptionOpensTextBoxPage......
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:02:00 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:asdf
+Email:asdf@demoqa.com
+Current Address :asdf
+Permananet Address :asdf
+2025-12-11 17:02:01 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 17:02:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 17:02:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:02:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:02:06 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Mohan D
+Email:mohan@gmail.com
+Current Address :asdfg
+Permananet Address :asdf
+2025-12-11 17:02:07 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:02:14 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:02:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:02:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:02:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:02:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:02:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Rakesh
+Email:rakesh@gmail.com
+Current Address :gkjgfkj123
+Permananet Address :kjdfkjdf123
+2025-12-11 17:02:15 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Started TC04_XlDataProviderValidation......
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Currently on the Home page
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Scrolling down to the Elements label on the Elements card
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the Elements card
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Elements card is clicked!
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicking the 'Text Box' option on the Elements page
+2025-12-11 17:02:21 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Text Box heading validation is done successfully!
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Full Name
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Email
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Current Address
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Entered the Permanent Address
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Clicked the SUBMIT button
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output banner is present!
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Name:Dokuparthi
+Email:dokuparthi@gmail.com
+Current Address :123Dokuparthi
+Permananet Address :123fdsdfdf
+2025-12-11 17:02:22 [main] INFO com.Framework_with_cicd.TestCases.BaseClass - Output is displayed Successfully!!!

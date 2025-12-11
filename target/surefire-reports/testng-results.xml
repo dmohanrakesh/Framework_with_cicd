@@ -1,131 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-12-11T12:37:39 CST" name="Suite" finished-at="2025-12-11T12:38:17 CST" duration-ms="37424">
+  <suite started-at="2025-12-11T17:01:41 CST" name="Suite" finished-at="2025-12-11T17:02:22 CST" duration-ms="41415">
     <groups>
     </groups>
-    <test started-at="2025-12-11T12:37:39 CST" name="Test" finished-at="2025-12-11T12:38:17 CST" duration-ms="37424">
+    <test started-at="2025-12-11T17:01:41 CST" name="Test" finished-at="2025-12-11T17:02:22 CST" duration-ms="41415">
       <class name="com.Framework_with_cicd.TestCases.ElementsPageTest">
-        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:39 CST" name="preConditions" finished-at="2025-12-11T12:37:39 CST" duration-ms="140" status="PASS">
+        <test-method is-config="true" signature="preConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:41 CST" name="preConditions" finished-at="2025-12-11T17:01:41 CST" duration-ms="147" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- preConditions -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:39 CST" name="setUp" finished-at="2025-12-11T12:37:44 CST" duration-ms="4405" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:41 CST" name="setUp" finished-at="2025-12-11T17:01:48 CST" duration-ms="7321" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC01_VerifyNavigationToElementsPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:44 CST" name="TC01_VerifyNavigationToElementsPage" finished-at="2025-12-11T12:37:44 CST" duration-ms="381" status="PASS">
+        <test-method signature="TC01_VerifyNavigationToElementsPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:48 CST" name="TC01_VerifyNavigationToElementsPage" finished-at="2025-12-11T17:01:49 CST" duration-ms="320" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01_VerifyNavigationToElementsPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:44 CST" name="tearDown" finished-at="2025-12-11T12:37:44 CST" duration-ms="169" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:49 CST" name="tearDown" finished-at="2025-12-11T17:01:49 CST" duration-ms="236" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:44 CST" name="setUp" finished-at="2025-12-11T12:37:48 CST" duration-ms="3382" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:49 CST" name="setUp" finished-at="2025-12-11T17:01:54 CST" duration-ms="4668" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC02_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:48 CST" name="TC02_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-11T12:37:48 CST" duration-ms="374" status="PASS">
+        <test-method signature="TC02_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:54 CST" name="TC02_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-11T17:01:54 CST" duration-ms="431" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC02_ValidateTextBoxOptionOpensTextBoxPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:48 CST" name="tearDown" finished-at="2025-12-11T12:37:48 CST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:54 CST" name="tearDown" finished-at="2025-12-11T17:01:54 CST" duration-ms="195" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:48 CST" name="setUp" finished-at="2025-12-11T12:37:50 CST" duration-ms="1413" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:01:54 CST" name="setUp" finished-at="2025-12-11T17:02:00 CST" duration-ms="5731" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC03_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:50 CST" name="TC03_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-11T12:37:55 CST" duration-ms="5313" status="FAIL">
-          <exception class="org.openqa.selenium.TimeoutException">
-            <message>
-              <![CDATA[Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h5[contains(text(), 'Elements')]' (tried for 5 second(s) with 500 milliseconds interval)]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //h5[contains(text(), 'Elements')]' (tried for 5 second(s) with 500 milliseconds interval)
-at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
-at com.Framework_with_cicd.PageObjects.HomePage.scrollToElementsCard(HomePage.java:46)
-at com.Framework_with_cicd.TestCases.ElementsPageTest.TC03_ValidateTextBoxOptionOpensTextBoxPage(ElementsPageTest.java:124)
-at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
-at java.base/java.lang.reflect.Method.invoke(Method.java:580)
-at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
-at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:687)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230)
-at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63)
-at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:995)
-at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203)
-at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154)
-at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
-at org.testng.TestRunner.privateRun(TestRunner.java:741)
-at org.testng.TestRunner.run(TestRunner.java:616)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
-at org.testng.SuiteRunner.run(SuiteRunner.java:312)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
-at org.testng.TestNG.runSuites(TestNG.java:1112)
-at org.testng.TestNG.run(TestNG.java:1079)
-at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:308)
-at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:71)
-at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:113)
-at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:385)
-at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
-at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:507)
-at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:495)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//h5[contains(text(), 'Elements')]"}
-  (Session info: chrome=143.0.7499.41)
-For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
-Build info: version: '4.39.0', revision: '126f156aee'
-System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.3'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [593cd0010c1200fe7bc05e9e97d80f9a, findElement {value=//h5[contains(text(), 'Elements')], using=xpath}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.42 (24bdc8c48a0c..., userDataDir: C:\Users\Owner\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54551}, goog:processID: 18188, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:54551/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
-Session ID: 593cd0010c1200fe7bc05e9e97d80f9a
-at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
-at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
-at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:142)
-at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:215)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
-at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:561)
-at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:166)
-at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:384)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:378)
-at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
-at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
-at jdk.proxy2/jdk.proxy2.$Proxy29.isDisplayed(Unknown Source)
-at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:308)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:294)
-at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:291)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
-... 32 more
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.TimeoutException -->
+        <test-method signature="TC03_ValidateTextBoxOptionOpensTextBoxPage()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:00 CST" name="TC03_ValidateTextBoxOptionOpensTextBoxPage" finished-at="2025-12-11T17:02:01 CST" duration-ms="1189" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC03_ValidateTextBoxOptionOpensTextBoxPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:55 CST" name="tearDown" finished-at="2025-12-11T12:37:55 CST" duration-ms="144" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:01 CST" name="tearDown" finished-at="2025-12-11T17:02:01 CST" duration-ms="223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:37:56 CST" name="setUp" finished-at="2025-12-11T12:38:00 CST" duration-ms="3829" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:02 CST" name="setUp" finished-at="2025-12-11T17:02:06 CST" duration-ms="4301" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC04_XlDataProviderValidation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:00 CST" name="TC04_XlDataProviderValidation" data-provider="getExcelData" finished-at="2025-12-11T12:38:01 CST" duration-ms="1656" status="PASS">
+        <test-method signature="TC04_XlDataProviderValidation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:06 CST" name="TC04_XlDataProviderValidation" data-provider="getExcelData" finished-at="2025-12-11T17:02:07 CST" duration-ms="899" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -151,15 +77,15 @@ at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC04_XlDataProviderValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:01 CST" name="tearDown" finished-at="2025-12-11T12:38:02 CST" duration-ms="202" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:07 CST" name="tearDown" finished-at="2025-12-11T17:02:07 CST" duration-ms="210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:02 CST" name="setUp" finished-at="2025-12-11T12:38:05 CST" duration-ms="3419" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:07 CST" name="setUp" finished-at="2025-12-11T17:02:14 CST" duration-ms="6387" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC04_XlDataProviderValidation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:05 CST" name="TC04_XlDataProviderValidation" data-provider="getExcelData" finished-at="2025-12-11T12:38:07 CST" duration-ms="1502" status="PASS">
+        <test-method signature="TC04_XlDataProviderValidation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:14 CST" name="TC04_XlDataProviderValidation" data-provider="getExcelData" finished-at="2025-12-11T17:02:15 CST" duration-ms="1622" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -173,69 +99,57 @@ at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:203)
             </param>
             <param index="2">
               <value>
-                <![CDATA[gkjgfkj]]>
+                <![CDATA[gkjgfkj123]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[kjdfkjdf]]>
+                <![CDATA[kjdfkjdf123]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC04_XlDataProviderValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:07 CST" name="tearDown" finished-at="2025-12-11T12:38:07 CST" duration-ms="160" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:15 CST" name="tearDown" finished-at="2025-12-11T17:02:16 CST" duration-ms="208" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:07 CST" name="setUp" finished-at="2025-12-11T12:38:11 CST" duration-ms="3805" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:16 CST" name="setUp" finished-at="2025-12-11T17:02:21 CST" duration-ms="5334" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="TC04_XlDataProviderValidation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:11 CST" name="TC04_XlDataProviderValidation" data-provider="getExcelData" finished-at="2025-12-11T12:38:12 CST" duration-ms="1336" status="PASS">
+        <test-method signature="TC04_XlDataProviderValidation(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:21 CST" name="TC04_XlDataProviderValidation" data-provider="getExcelData" finished-at="2025-12-11T17:02:22 CST" duration-ms="1213" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[asdfg]]>
+                <![CDATA[Dokuparthi]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[asdfg@asdf.com]]>
+                <![CDATA[dokuparthi@gmail.com]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[gfkjkjj]]>
+                <![CDATA[123Dokuparthi]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[ljnkdv]]>
+                <![CDATA[123fdsdfdf]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC04_XlDataProviderValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:12 CST" name="tearDown" finished-at="2025-12-11T12:38:12 CST" duration-ms="183" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:22 CST" name="tearDown" finished-at="2025-12-11T17:02:22 CST" duration-ms="223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:12 CST" name="setUp" finished-at="2025-12-11T12:38:16 CST" duration-ms="3451" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setUp -->
-        <test-method signature="TC05_ValidateTextBoxOptionOpensTextBoxPage1()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:16 CST" name="TC05_ValidateTextBoxOptionOpensTextBoxPage1" finished-at="2025-12-11T12:38:17 CST" duration-ms="1100" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- TC05_ValidateTextBoxOptionOpensTextBoxPage1 -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:17 CST" name="tearDown" finished-at="2025-12-11T12:38:17 CST" duration-ms="151" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="postConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@4d5d943d]" started-at="2025-12-11T12:38:17 CST" name="postConditions" finished-at="2025-12-11T12:38:17 CST" duration-ms="224" status="PASS">
+        <test-method is-config="true" signature="postConditions()[pri:0, instance:com.Framework_with_cicd.TestCases.ElementsPageTest@7c7b252e]" started-at="2025-12-11T17:02:22 CST" name="postConditions" finished-at="2025-12-11T17:02:23 CST" duration-ms="200" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postConditions -->
