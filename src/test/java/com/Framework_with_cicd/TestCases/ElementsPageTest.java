@@ -228,11 +228,12 @@ public class ElementsPageTest extends BaseClass{
 		String xlfilepath = BaseClass.xlfilePath;
 		String sheetName = BaseClass.xlSheetName;
 		int rows = XLUtils.getRowCount(xlfilepath,  sheetName);
+		
 		int columns = XLUtils.getColumnCount(xlfilepath, sheetName);
 		
-		String data[][] = new String[rows-1][columns];
+		String data[][] = new String[rows][columns];
 		
-		for(int i = 1; i<rows; i++ ) {
+		for(int i = 1; i<=rows; i++ ) {
 			for(int j=0; j<columns; j++) {
 				data[i-1][j]= XLUtils.getCellData(xlfilepath, sheetName,i,j);
 			}
@@ -258,7 +259,7 @@ public class ElementsPageTest extends BaseClass{
 		
 //		driver.switchTo().frame(0);
 		
-		String testName = "TC03_ValidateTextBoxOptionOpensTextBoxPage";
+		String testName = "TC05_ValidateTextBoxOptionOpensTextBoxPage1";
 		log.info("Started "+testName+"......");
 		HomePage homePage = new HomePage(driver);
 		log.info("Currently on the Home page");
